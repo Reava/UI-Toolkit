@@ -1,0 +1,16 @@
+{
+    "name": "chirp.reava.template.Editor",
+    "rootNamespace": "",
+    "references": [
+        "chirp.reava.template"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
