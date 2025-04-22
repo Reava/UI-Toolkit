@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
 
 env:
-  releasePrefix: "Template Package"
-  packageName: "chirp.reava.template"
-  packagePath: "Packages/chirp.reava.template"
+  releasePrefix: "UI Toolkit"
+  packageName: "chirp.reava.uitoolkit"
+  packagePath: "Packages/chirp.reava.uitoolkit"
 
 jobs:
   build:

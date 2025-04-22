@@ -1,9 +1,9 @@
 {
-  "name": "chirp.reava.template",
-  "displayName": "Ttemplate Package",
-  "version": "1.0.0-pre.1",
+  "name": "chirp.reava.uitoolkit",
+  "displayName": "UI Toolkit",
+  "version": "0.1.0-pre.1",
   "unity": "2022.3",
-  "description": "A fork of VRChat's package template that allows setting up multiple packages in a single project.",
+  "description": "A collection of drag-and-drop UI prefabs and examples to make your own, designed to work with Reava's UwUtils scripts or standalone ",
   "author": {
     "name": "Reava_",
     "email": "reava.vr@gmail.com",
@@ -12,8 +12,5 @@
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.worlds": ">=3.7.4"
-  },
-  "legacyFolders": {
-    "Assets\\Reava_\\template": ""
   }
 }
