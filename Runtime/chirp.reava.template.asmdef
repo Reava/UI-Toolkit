@@ -1,5 +1,5 @@
 {
-    "name": "chirp.reava.template",
+    "name": "chirp.reava.uitoolkit",
     "rootNamespace": "",
     "references": [
         "UdonSharp.Runtime",
